@@ -1,4 +1,4 @@
-```markdown
+
 # Mi Primer RAG — IBM Knowledge Agent
 
 RAG (Retrieval-Augmented Generation) construido desde cero sin frameworks como LangChain o LlamaIndex.
