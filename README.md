@@ -49,17 +49,11 @@ Agrega tus PDFs a la carpeta `data/` y ejecuta:
 python rag_ibm.py
 ```
 
+En mi caso agregué 3 PDFs de IBM docs que contenían iformación sobre WatsonX, en tu caso puedes probar con PDF's de cualquier tema :)
+
 ## Ejemplo de uso
 
-```
-Tu pregunta: ¿Qué es watsonx?
-Respuesta: La experiencia watsonx es un entorno seguro y colaborativo donde puedes
-acceder a los datos de confianza de tu organización, automatizar procesos de IA
-y entregar IA en tus aplicaciones.
-
-Tu pregunta: ¿Qué es OpenShift?
-Respuesta: El contexto proporcionado no contiene información sobre OpenShift.
-```
+<img width="650" height="206" alt="image" src="https://github.com/user-attachments/assets/f32f97f6-78ac-45ca-866c-36b35b9487dc" />
 
 ## Notas
 
